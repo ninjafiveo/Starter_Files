@@ -37,4 +37,4 @@ class GalacticDatabase:
         pass
     # TODO: Additional methods to retrieve and display specific clone/starship details based on user input
     
-# TODO: Implement user interaction to utilize the functionalities in the GalacticDatabase class
+# TODO: Implement user interaction to utilize the functionalities in the GalacticDatabase class (Hint: Initialize a new GalacticDatabase Object. Then use the methods from inside the GalacticDatabse Object to add clones and starships to the database. )
